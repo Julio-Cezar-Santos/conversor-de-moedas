@@ -27,3 +27,6 @@ Este projeto utiliza a biblioteca Gson para manipulação de JSON. Certifique-se
 ## Limitações
 
 Este projeto utiliza a versão gratuita da API do ExchangeRate, que possui algumas limitações. Para mais detalhes, consulte a [documentação da API](https://www.exchangerate-api.com/docs/free-exchange-rate-api).
+
+
+![Badge-Conversor](https://github.com/Julio-Cezar-Santos/conversor-de-moedas/assets/138732558/de4344a3-b232-4f3f-85fd-917011ff66ac)
